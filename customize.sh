@@ -9,7 +9,7 @@ show_info(){
     ui_print "- 当前设备型号：$MODEL"
     ui_print "- 当前安卓SDK版本：$SDK"
     ui_print "- 当前安卓版本：$ANDROID"
-    ui_print "- github地址：https://github.com/yanbuyu/XiaomiCTSPass"
+    ui_print "- github地址(二改)：https://github.com/weaponmasterjax/XiaomiCTSPass"
 }
 
 main(){
