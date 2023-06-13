@@ -1,7 +1,7 @@
 id=XiaomiCTSPass
 name=Xiaomi CTS Pass
-version=v1.6.1
-versionCode=161
+version=v1.6.2
+versionCode=162
 author=yanbuyu&&weaponmasterjax
 description=强制小米设备通过谷歌CTS测试，github开源地址：https://github.com/weaponmasterjax/XiaomiCTSPass
 updateJson=https://raw.githubusercontent.com/weaponmasterjax/XiaomiCTSPass/master/release/XiaomiCTSPass.json
