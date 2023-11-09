@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/houji/houji:14/UKQ1.230804.001/V816.0.16.0.UNCCNXM:user/release-keys
+ro.build.description=houji-user 14 UKQ1.230804.001 V816.0.16.0.UNCCNXM release-keys
+ro.build.version.security_patch=2023-11-01
